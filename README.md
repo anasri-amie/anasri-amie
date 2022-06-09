@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anasri-amie
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SQL/NoSQL
 - 💞️ I’m looking to collaborate on web development/web application
 - 📫 You can reach me by email to github.anasri@gmail.com
 
